@@ -1,0 +1,17 @@
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\bin\Debug\net5.0\DataAccsessLayer.dll
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\bin\Debug\net5.0\DataAccsessLayer.pdb
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\emre_\source\repos\PentestProject\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
